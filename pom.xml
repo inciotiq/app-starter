@@ -11,6 +11,7 @@
     <modules>
         <module>commons</module>
         <module>application</module>
+        <module>user</module>
     </modules>
 
 </project>
