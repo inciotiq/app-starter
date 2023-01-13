@@ -1,0 +1,9 @@
+[submodule "app-starter-base"]
+	path = app-starter-base
+	url = https://github.com/inciotiq/app-starter-base.git
+[submodule "commons"]
+	path = commons
+	url = https://github.com/inciotiq/commons.git
+[submodule "user"]
+	path = user
+	url = https://github.com/inciotiq/app-starter-user.git
