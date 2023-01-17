@@ -1,5 +1,5 @@
-[submodule "app-starter-base"]
-	path = app-starter-base
+[submodule "application"]
+	path = application
 	url = https://github.com/inciotiq/app-starter-base.git
 [submodule "commons"]
 	path = commons
