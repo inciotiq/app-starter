@@ -13,6 +13,9 @@ Run the `Application.java` class in the `application` module.
 - [commons](https://github.com/inciotiq/commons): Some fundamental classes and methods.
 - [user](https://github.com/inciotiq/app-starter-user): Provides user management with roles.
 
+## How to use this project
+[Click here for a walkthrough](FORK-HELP.md)
+
 ---
 
 ## Troubleshooting
